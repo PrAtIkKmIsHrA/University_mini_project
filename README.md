@@ -1,0 +1,1 @@
+hello ! this is a sem 3 university mini project in which me and my classmate have taken a yoga images dataset from kaggle and then tried extract different features from it using image features like hog and local binary pattern and thenn classified it using classical machine learning algorithms like random forest and K-nn.
